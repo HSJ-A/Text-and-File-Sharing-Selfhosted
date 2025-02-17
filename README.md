@@ -14,4 +14,5 @@ npm install
 
 to run:
 cd qr-code-app
+
 node server.js
